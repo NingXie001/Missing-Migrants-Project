@@ -1,3 +1,3 @@
-# Missing-Migrants-Project
-This is a project I completed with my team member Olan Johnson, Hemani Choksi, Cristy Brust and Stefanie Kenyon. 
-Thanks for their help!
+# final-project
+group project 3 final project 
+https://missing-migrants-finalproject.herokuapp.com/
